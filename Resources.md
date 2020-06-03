@@ -51,7 +51,7 @@ http://securityweekly.com/ – This is a great video/audio podcast/livestream to
 
 http://www.TWiT.tv – Great place to start if you are just wanting to listen/watch to tech news on a daily basis. They have tons of shows from beginner to shows about technology law. It’s a good place to start learning about all kinds of different tech stuff. (Before I got started into InfoSec, this was the place that I went to get familiar with tech terms and learn about current issues and events in the tech world.)
 
-http://www.Shodan.io – This site is really useful for all kinds of reasons. Shodan is the world’s first search engine for Internet-connected devices.  It also turns out that if you send an email (to jmath@shodan.io) from an EDU account letting them know you are a student and your trial account login name, they will upgrade your account to a full membership for free.  (Thanks again John Matherly for the info and the upgrade!)
+http://www.Shodan.io – This site is really useful for all kinds of reasons. Shodan is the world’s first search engine for Internet-connected devices.  It also turns out that if you send an email (to jmath@shodan.io) from an EDU account letting them know you are a student and your trial account login name, they will upgrade your account to a full membership for free.  
 
 https://haveibeenpwned.com/ – Another pretty cool site where you can check an email address to see if it has been listed in any major breaches. You can also use their API to create your own stuff and do more creative searches. They also have the ability to search across a whole domain for breached accounts, but you have to verify that you own that domain, of course.
 https://www.censys.io/tutorial – Censys is a search engine that enables researchers to ask questions about the hosts and networks that compose the Internet.
@@ -76,11 +76,18 @@ https://zerossl.com/ – Honestly, one of the quickest ssl cert sites I’ve eve
 A lot of people have been asking me for links regarding password cracking. While I have a ton of customized resources, there are plenty of open source and free information and tools out there for password cracking.
 
 https://www.irongeek.com/i.php?page=videos/showmecon2018/showmecon-2018-track-2-04-how-to-train-your-kraken-creating-a-monster-out-of-necessity-sean-peterson –  This is a video of my talk I gave at ShowMeCon in June of 2018. (This was my first time speaking at a con, so I was a bit nervous) There are lots of great resources I mention in this talk, so I recommended at least watching the last part of the video if you just want those.
+
 https://github.com/NotSoSecure/password_cracking_rules/blob/master/OneRuleToRuleThemAll.rule – One of my favorite (and most effective) rulesets.
+
 https://weakpass.com/ – Probably my favorite place to get dictionaries (outside of creating my own).
-https://hashcat.net/hashcat/ – I personally prefer to use hashcat over john for the majority of my cracking because of the type of cracking I do. There are some cases, where I use john or other tools, but hashcat is my go to and most familliar hash cracking tool.
+
+https://hashcat.net/hashcat/ – I personally prefer to use hashcat over john for the majority of my cracking because of the type of cracking I do. There are some cases, where I use john or other tools, but hashcat is my go to and most familiar hash cracking tool.
+
 https://www.amazon.com/Hash-Crack-Password-Cracking-Manual-ebook/dp/B075QWTYPM – This book is a great reference should you be in a pinch. Obviously just about everything you need to know you can find on the Internet, however, it is good to have a physical copy of this book nearby. It has saved me on multiple occassions.
+
 https://digi.ninja/projects/pipal.php – I love using this tool for password analysis. It is really cool being able to go through tens of thousands of passwords and find patterns in them. Should out to Robin Wood and all the other people who created this tool.
+
+
 
 
 
@@ -89,20 +96,35 @@ https://digi.ninja/projects/pipal.php – I love using this tool for password an
 ===========================================================
 
 http://www.irongeek.com/ –  I am making this bold, because if you don’t know about this, you really need to check this out. This is the BEST place to watch all of the Conference videos. Whether you want to watch a talk from the last Derbycon, or the last B-Sides in whatever city you prefer. I cannot recommend this enough. 
+
 Offensive Security – https://www.offensive-security.com
+
 FSU Offensive Computer Security Course – https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html
+
 http://www.Skillset.com – This place has free practice tests.  You can subscribe for money, but I would say its not really worth it.  It was better when it was all free.
+
 https://open.hpi.de/news#post_42a41551-8ed6-47ea-bec6-ce7d3a030fff
+
 https://pentesterlab.com/ – Great place to lean Web Penetration testing.
+
 http://www.cicentre.com/ – The Center for Counterintelligence and Security Studies
+
 Strategic Security videos http://strategicsec.com/services/training-services/videos/
+
 OCW Electrical Engineering & CompSci Courses –  http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 http://www.hackernews.com/
+
 http://www.youtube.com/user/ChRiStIaAn008
+
 Codeacademy (Teaches how to code in many languages!)- https://www.codecademy.com/
+
 W3schools (Another great site to learn programming languages)  http://www.w3schools.com/
+
 RubyMonk (A gentle, interactive introduction to programming in Ruby) http://rubymonk.com/
+
 Code.org (Great resource for children wanting to learn computer science!) – https://code.org/
+
+
 
 
 
@@ -111,46 +133,90 @@ Code.org (Great resource for children wanting to learn computer science!) – ht
 ===========================================================
 
 https://www.defcon.org/ 
+
 http://www.securitybsides.com/
+
 https://www.blackhat.com/
+
 https://conference.hitb.org/
+
 http://www.infosecurityeurope.com/
+
 http://infosecworld.misti.com/
+
 https://www.sans.org/
+
 http://shmoocon.org/
+
 http://www.messefrankfurt.com/
+
 https://deepsec.net/
+
 http://www.Derbycon.com – (RIP)
+
 http://www.anycon.info/ 
+
 http://grrcon.com/ 
+
 https://cyphercon.com/ 
+
 https://kernelcon.org/ 
+
 https://www.thotcon.org/ 
+
 https://www.hackerhalted.com/ 
+
 https://www.texascybersummit.org/ 
+
 https://www.wildwesthackinfest.com/ 
+
 https://nolacon.com/ 
+
 http://houstonseccon.org/ 
+
 https://securewv.org/ 
+
 https://lascon.org/
+
 https://circlecitycon.com/
+
 http://skydogcon.blogspot.com/
+
 http://showmecon.com/ 
 
 There are so many CityCons that I cant possibly mention them all.
 
+
+
+
+
 ##### Archives:
 
 http://www.irongeek.com/ – IronGeek the biggest and baddest archive of convention talks
+
 http://www.securitytube.net/
-https://infocon.org/ –  InfoCon is a community supported, non-commercial archive of all the past hacking related conference material that can be found.
+
+https://infocon.org/ –  InfoCon is a community supported, non-commercial archive of all the past hacking related conference 
+
+material that can be found.
+
+
 
 YouTube Channels of Conferences:
+
 DEFCONConference – https://www.youtube.com/user/DEFCONConference/playlists
+
 Shmoocon 2016 – https://www.youtube.com/playlist?list=PLJgHiyD1pZg70X3X3zjmdmZg3u0eqDFJ4
+
 RSA Conference – https://www.youtube.com/channel/UCYzwGkfOqrevO-4TuTjPLwQ
+
 Black Hat – https://www.youtube.com/user/BlackHatOfficialYT/playlists
+
 http://www.youtube.com/user/HackingCons
+
+
+
+
 
 
 
@@ -159,12 +225,22 @@ http://www.youtube.com/user/HackingCons
 ===========================================================
 
 Want to learn?- http://www.irongeek.com/i.php?page=videos/aide2015/quick-intro-to-lock-picking-adrian-crenshaw
+
 An interesting Challenge lock – http://learnlockpicking.com/
+
 One of the cheapest places I’ve found Security pins – http://www.clksupplies.com/
+
 Bloomington FOOLS – http://www.bloomingtonfools.org/
+
 Peterson Lock Picks – https://www.thinkpeterson.com/
+
 Sparrows Lock Picks – http://www.sparrowslockpicks.com/
+
 Another Pick Selling site – https://www.lockpickshop.com/
+
+
+
+
 
 
 
@@ -173,19 +249,36 @@ Another Pick Selling site – https://www.lockpickshop.com/
 ===========================================================
 
 http://hakshop.myshopify.com/ – Hak5 is pretty well known for the Wifi Pineapple and USB Rubber ducky.
+
 http://hackerwarehouse.com/ – They sell tons of good stuff
+
 While it’s not specific to hacking per se, this site has a list of daily deals that often have really cool things for sale – http://deals.kinja.com/
+
 Some Cool Tech – http://theawesomer.com/category/tech/
+
 Spy Shop – http://www.spyshop.co.uk/
+
 Spy Gadgets – https://www.spygadgets.com/
+
 Gadgets+gear – https://gadgetsandgear.com/security-and-spy/
+
 Spy Emporium – http://www.spyemporium.com/audio-spying-surveillance-equipment.html
+
 Information Unlimited (Crazy Stuff to Buy) http://www.amazing1.com/
+
 Wall of Sheep (All Kinds of Good Stuff) – http://www.wallofsheep.com/
+
 Micro drone with camera – http://www.micro-drone.co.uk/shop/
+
 1BitSquared (super tiny drones) – http://1bitsquared.com/
+
 “Camping” tents (RF Shielded Tents) – http://www.ramayes.com/rf_shielded_tents.htm
+
 KillerUSB (Destroys USB Ports On Computers) – http://kukuruku.co/hub/diy/usb-killer
+
+
+
+
 
 
 
@@ -194,86 +287,170 @@ KillerUSB (Destroys USB Ports On Computers) – http://kukuruku.co/hub/diy/usb-k
 ===========================================================
 
 G0tmi1k – https://blog.g0tmi1k.com/
+
 Lesley Carhart Blog – http://tisiphone.net/
+
 Samy Kamkar Blog – http://samy.pl/
+
 Raphael Mudge – http://blog.cobaltstrike.com/
+
 Fernando Magro Blog – http://fernandomagro.com/category/security/
+
 Bruce Schneier Blog (IT Security “guru”) – https://www.schneier.com
+
 Nicolas Seriot resource site – http://seriot.ch/
+
 Jonathan Salwan (shell-storm) blog – http://shell-storm.org/
+
 Carlos Perez (DarkOperator) – http://www.darkoperator.com/
+
 Brian Krebs – http://krebsonsecurity.com/
+
 H legacy blog – http://www.h-online.com/
+
 Zdziarski’s Blog – http://www.zdziarski.com/blog/?cat=8
+
 IceRocket (allows users to search Blogs, Tweets, news, images etc. all from one page) – http://www.icerocket.com/
+
 Daniel Blog Miessler – https://danielmiessler.com/information-security/
+
 Rootshell Blog – http://www.rootsh3ll.com/
+
 Sjoerd Langkemper Blog – http://www.sjoerdlangkemper.nl/
+
 Malware Jake Blog – http://malwarejake.blogspot.com
+
 Rich Perkins/Mike Tassey – https://rabbit-hole.org/
+
 Social Engineer Blog – http://www.social-engineer.org/blog/
+
 Didier Stevens – http://blog.didierstevens.com/
+
 Room362.com – Blog –  http://www.room362.com/
+
 Blogs | The Honeynet Project – https://www.honeynet.org/
+
 n0security –  http://n0security.blogspot.com/
+
 Gentil Kiwi – http://blog.gentilkiwi.com/
+
 http://www.n0where.net
+
 http://carnal0wnage.blogspot.com/
+
 http://www.mcgrewsecurity.com/
+
 http://www.gnucitizen.org/blog/
+
 http://www.darknet.org.uk/
+
 http://spylogic.net/
+
 http://taosecurity.blogspot.com/
+
 http://www.room362.com/
+
 http://blog.sipvicious.org/
+
 http://blog.portswigger.net/
+
 http://pentestmonkey.net/blog/
+
 http://jeremiahgrossman.blogspot.com/
+
 http://i8jesus.com/
+
 http://blog.c22.cc/
+
 http://www.skullsecurity.org/blog/
+
 http://blog.metasploit.com/
+
 http://www.darkoperator.com/
+
 http://blog.skeptikal.org/
+
 http://preachsecurity.blogspot.com/
+
 http://www.tssci-security.com/
+
 http://www.gdssecurity.com/l/b/
+
 http://websec.wordpress.com/
+
 http://bernardodamele.blogspot.com/
+
 http://laramies.blogspot.com/
+
 http://www.spylogic.net/
+
 http://blog.andlabs.org/
+
 http://xs-sniper.com/blog/
+
 http://www.commonexploits.com/
+
 http://www.sensepost.com/blog/
+
 http://wepma.blogspot.com/
+
 http://exploit.co.il/
+
 http://securityreliks.wordpress.com/
+
 http://www.madirish.net/index.html
+
 http://sirdarckcat.blogspot.com/
+
 http://reusablesec.blogspot.com/
+
 http://myne-us.blogspot.com/
+
 http://www.notsosecure.com/
+
 http://blog.spiderlabs.com/
+
 http://www.corelan.be/
+
 http://www.digininja.org/
+
 http://www.pauldotcom.com/
+
 http://www.attackvector.org/
+
 http://deviating.net/
+
 http://www.alphaonelabs.com/
+
 http://www.smashingpasswords.com/
+
 http://wirewatcher.wordpress.com/
+
 http://gynvael.coldwind.pl/
+
 http://www.nullthreat.net/
+
 http://www.question-defense.com/
+
 http://archangelamael.blogspot.com/
+
 http://memset.wordpress.com/
+
 http://sickness.tor.hu/
+
 http://punter-infosec.com/
+
 http://www.securityninja.co.uk/
+
 http://securityandrisk.blogspot.com/
+
 http://esploit.blogspot.com/
+
 http://www.pentestit.ru
+
+
+
+
 
 
 
