@@ -42,18 +42,31 @@ A mentor once told me that I needed to read this story, and be like Rowan.  At t
  
 
 I see a ton of people asking how to get your foot in the door in the penetration testing field, and so I wanted to share this resource with you all because I feel it is a great answer to this common question: https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
+
 https://dev.windows.com/en-us/microsoft-edge/tools/vms/windows/  – Windows VMs  Microsoft offers 90 day trial VMs for people to test IE versions 6-Edge browser.  You can Download XP, Vista, 7, 8, 8.1, and 10 to try out.  They also have these operating systems packaged up for VirtualBox, Vagrant, HyperV, VPC, and VMware for a no fuss approach.  Just download whatever OS you want to play with, and load it on up.
+
 https://www.infosecindustry.com/ – This place has it all: Alerts, News, Podcasts, Videos, Etc. It’s like a dashboard to the InfoSec world. It makes a good home page.
-http://securityweekly.com/ – This is a great video/audio podcast/livestream to learn about InfoSec news and what fellow hackers are doing on a weekly basis. Paul has been doing this show for a few years, and has many interesting guests on his show. They love to have a few drinks (and Cigars) and talk about InfoSec. The most entertaining show about Security I’ve ever listened to.
+
+http://securityweekly.com/ – This is a great video/audio podcast/livestream to learn about InfoSec news and what fellow hackers are doing on a weekly basis. Paul has been doing this show for a few years, and has many interesting guests on his show. They love to have a few drinks (and Cigars) and talk about InfoSec. 
+
 http://www.TWiT.tv – Great place to start if you are just wanting to listen/watch to tech news on a daily basis. They have tons of shows from beginner to shows about technology law. It’s a good place to start learning about all kinds of different tech stuff. (Before I got started into InfoSec, this was the place that I went to get familiar with tech terms and learn about current issues and events in the tech world.)
+
 http://www.Shodan.io – This site is really useful for all kinds of reasons. Shodan is the world’s first search engine for Internet-connected devices.  It also turns out that if you send an email (to jmath@shodan.io) from an EDU account letting them know you are a student and your trial account login name, they will upgrade your account to a full membership for free.  (Thanks again John Matherly for the info and the upgrade!)
+
 https://haveibeenpwned.com/ – Another pretty cool site where you can check an email address to see if it has been listed in any major breaches. You can also use their API to create your own stuff and do more creative searches. They also have the ability to search across a whole domain for breached accounts, but you have to verify that you own that domain, of course.
 https://www.censys.io/tutorial – Censys is a search engine that enables researchers to ask questions about the hosts and networks that compose the Internet.
+
 https://letsencrypt.org/ – Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
+
 https://ninite.com/ – Great for getting many of the tools you need when you rebuild machines. It installs and updates all of your needed programs all at once for you so you don’t have to go get them individually.
+
 https://wigle.net/ – This site is dedicated to wireless network discovery and recon. You can go to an area on the map and see what Wifi SSIDs have been discovered by wardrivers.  Pretty sweet!
+
 https://www.calm.com/ – Because sometimes you just want/need to chill out after a long day.  =)
+
 https://zerossl.com/ – Honestly, one of the quickest ssl cert sites I’ve ever used.
+
+
 
 
 
