@@ -6,7 +6,7 @@
 
 
 
-So for anyone who wants a list of resources to check out, this is my best go at it. I have copied all of my favorite links and had some amazing people who have added a ton to it, making this the place for anyone who would like to learn just about ANYTHING. I have categorized everything; from just getting started with Information Technology all the way up to more advanced things; this is the best list I can make for you.  
+So for anyone who wants a list of resources to check out, this is my best go at it. I have copied all of my favorite links and had some amazing people who have added a ton to it, making this the place for anyone who would like to learn just about ANYTHING. I have categorized everything; from just getting started with Information Technology all the way up to more advanced things; this is the best list I can make for you.  If you have any interest in helping me organize this any better than it already is, removing anything that is no longer active, or adding new things, please, please do.  I will (and so will others, im sure) appreciate and value your help so much.
 
 ##### Tips:
 
